@@ -6,7 +6,6 @@ from config import get_settings
 settings = get_settings()
 settings.FEATURE_RBAC_ENABLED = True
 # so that auth logic runs against fake tokens
-base_url_for_end_to_end = os.environ.get("BASE_URL_FOR_E2E")
 app_logger = logging.getLogger("app")
 app_logger.setLevel(logging.DEBUG)
 
