@@ -65,12 +65,11 @@ needed for the API. The `expected_roles` parameter is optional and if not provid
 class User:
     def __init__(
             self,
-            id_token: str = (None,)
-        name: str = (None,)
-
-    access_token: str = (None,)
-    role_collection = (None,)
-    claims = (None,)
+            id_token: str = None,
+            name: str = None,
+            access_token: str = None,
+            role_collection = None,
+            claims = None,
     ):
 ```
 

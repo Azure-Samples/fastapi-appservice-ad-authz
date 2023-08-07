@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/.gitignore
+/.idea/fastapi-appservice-ad-authz.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
