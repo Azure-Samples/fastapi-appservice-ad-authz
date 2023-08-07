@@ -90,11 +90,13 @@ AZURE_CLIENT_ID: Default value: None. Description: The Azure client ID used for 
 
 ADMIN_ROLE_NAME: Default value: "admin". Description: The name of the admin role.
 
-CONTRIBUTOR_ROLE_NAME: Default value: "contributor". De=cription: The name of the contributor role.
+CONTRIBUTOR_ROLE_NAME: Default value: "contributor". Description: The name of the contributor role.
 
-READER_ROLE_NAME: Default value: "reader". Description: The name of the reader role.CP_APP_NAME: Default value: "plat". Description: The name of the application. This is
+READER_ROLE_NAME: Default value: "reader". Description: The name of the reader role.
+
+CP_APP_NAME: Default value: "plat". Description: The name of the application. This is
 particularly relevant in case of admin roles
 
 VALID_ROLES:default value: Comma-separated string of ADMIN_ROLE_NAME CONTRIBUTOR_ROLE_NAME, and READER_ROLE_NAME. Description: The valid role names.
 
-GROUP_NAME_SEPARATOR: Default value: "-". Description: The separator used in grou= names.
+GROUP_NAME_SEPARATOR: Default value: "-". Description: The separator used in group names.
