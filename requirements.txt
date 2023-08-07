@@ -1,0 +1,12 @@
+fastapi
+behave
+uvicorn
+black
+python-jose[cryptography]==3.3.0
+pyjwt==2.7.0
+requests
+pytest
+behave
+pydantic
+python-dotenv
+httpx
