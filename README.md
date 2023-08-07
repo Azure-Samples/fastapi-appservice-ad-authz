@@ -1,4 +1,4 @@
-This repository has sample implementation Azure RBAC control in API's using Azure AD groups.
+This repository has sample implementation Azure RBAC control in API's using Azure AD groups for application running on Appservice.
 
 ## Pre-requisites
 
