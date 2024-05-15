@@ -3,7 +3,7 @@ behave
 uvicorn
 black
 python-jose[cryptography]==3.3.0
-pyjwt==2.7.0
+pyjwt==2.8.0
 requests
 pytest
 behave
